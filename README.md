@@ -1,0 +1,2 @@
+# ClashX
+copy clashx
